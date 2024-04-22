@@ -1,0 +1,3 @@
+[submodule "poc_repo"]
+	path = poc_repo
+	url = https://github.com/kimkihoon0515/poc_repo.git
